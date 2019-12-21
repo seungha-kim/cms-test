@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: seungha-kim/cms-test
   branch: master
 
 media_folder: "public/uploads"
